@@ -6,6 +6,12 @@ The project is split into two parts:
 1. Frontend - Angular web application built with Ionic Framework
 2. Backend RESTful API - Node-Express application
 
+* But now is split into four parts, and here's the github link of this parts:
+1. FrontEnd - https://github.com/HosamSaleh1/udagram-frontend.git
+2. BackEnd / User - https://github.com/HosamSaleh1/udagram-api-user.git
+3. BackEnd / Feed - https://github.com/HosamSaleh1/udagra-api-feed.git
+4. Reverse Proxy - https://github.com/HosamSaleh1/udagram-reverseproxy.git
+
 ## Getting Started
 > _tip_: it's recommended that you start with getting the backend API running since the frontend web application depends on the API.
 
